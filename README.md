@@ -1,4 +1,4 @@
-# Hi everyone I'm Rafał Gontarski 👋
+# Hi everyone I'm Rafał 👋
 ### I'd like to become a Junior Full Stack Developer
 ![image](https://github.com/RafalGontarski/RafalGontarski/assets/106514250/b2273dc0-8c89-436b-86d9-5b1ef7fb2529)
 ![image](https://github.com/RafalGontarski/RafalGontarski/assets/106514250/791f9900-634b-4442-a47f-109e9b390e93)
