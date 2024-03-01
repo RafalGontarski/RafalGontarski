@@ -1,4 +1,6 @@
 # Hi everyone I'm Rafał 👋
+# 🔥 Skills/Stats :
+![codewars](https://github.com/RafalGontarski/RafalGontarski/assets/106514250/a9b4e202-cd3f-4b37-9ce4-84f21a231f7c)
 ### I'd like to become a Junior Full Stack Developer
 ![image](https://github.com/RafalGontarski/RafalGontarski/assets/106514250/b2273dc0-8c89-436b-86d9-5b1ef7fb2529)
 ![image](https://github.com/RafalGontarski/RafalGontarski/assets/106514250/791f9900-634b-4442-a47f-109e9b390e93)
@@ -33,7 +35,6 @@
 ## IDE
 ![Intelij](https://github.com/RafalGontarski/RafalGontarski/assets/106514250/0d1bf6e4-50ff-47f5-bd11-633690ddc156) ![Webstorm](https://github.com/RafalGontarski/RafalGontarski/assets/106514250/e7c36496-63b0-4556-9e32-3c2e3011453b) ![Visual Studio Code](https://github.com/RafalGontarski/RafalGontarski/assets/106514250/d4b82ba2-ef3a-4e64-ac82-06405070c1de)
 
-# 🔥 Skills/Stats :
-![codewars](https://github.com/RafalGontarski/RafalGontarski/assets/106514250/a9b4e202-cd3f-4b37-9ce4-84f21a231f7c)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RafalGontarski)](https://git.io/streak-stats)
